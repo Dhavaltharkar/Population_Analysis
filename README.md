@@ -26,6 +26,6 @@
 
 <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Population_Analysis/main/Markdown/7.png">
 
-## Q7.  Write a Query to retrieve the Average Literacy of the State greater than national Literacy Rate?
+## Q8.  Write a Query to retrieve the state wise lowest population density?
 
 <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Population_Analysis/main/Markdown/8.png">
