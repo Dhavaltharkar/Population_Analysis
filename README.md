@@ -14,7 +14,7 @@
 
 <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Population_Analysis/main/Markdown/4.png">
 
-## Q5. Find the Average growth rate dor all state?
+## Q5. Find the Average growth rate for all state?
 
 <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Population_Analysis/main/Markdown/5.png">
 
